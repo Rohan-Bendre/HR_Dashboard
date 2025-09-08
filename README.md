@@ -1,13 +1,13 @@
 # HR-Dashboard
 The HR Dashboard with Tableau is an interactive analytics project designed to provide data-driven insights into workforce management. It consolidates key HR metrics into a single, user-friendly dashboard, enabling HR teams and business leaders to make smarter decisions.
 
-📌 Project Overview
+# 📌 Project Overview
 
 This project is an interactive HR Dashboard built in Tableau to analyze key workforce metrics. The dashboard provides actionable insights into employee demographics, performance, attrition, and other HR-related data points.
 
 It is designed to help HR professionals and business leaders make data-driven decisions regarding workforce planning, employee engagement, and retention strategies.
 
-🎯 Objectives
+# 🎯 Objectives
 
 Provide a centralized view of HR data.
 
@@ -19,7 +19,7 @@ Evaluate performance distribution across teams.
 
 Support strategic workforce planning with interactive visualizations.
 
-📂 Project Structure
+# 📂 Project Structure
 
 Dataset: dataset.csv (contains HR-related data such as employee details, performance, attrition, etc.).
 
@@ -27,7 +27,7 @@ Tableau Workbook: HR_Dashboard.twbx (Tableau packaged workbook containing the da
 
 README.md: Project documentation (this file).
 
-🛠️ Tools & Technologies
+# 🛠️ Tools & Technologies
 
 Tableau – for data visualization and dashboard creation.
 
@@ -35,7 +35,7 @@ Excel / CSV – data preprocessing.
 
 HR Analytics Concepts – applied for attrition and workforce analysis.
 
-🚀 Features of the Dashboard
+# 🚀 Features of the Dashboard
 
 ✔️ Employee Demographics Breakdown (age, gender, department, role)
 ✔️ Attrition Analysis (turnover rate by department, role, tenure)
@@ -43,7 +43,7 @@ HR Analytics Concepts – applied for attrition and workforce analysis.
 ✔️ Headcount Trends (hiring vs attrition over time)
 ✔️ Interactive Filters for deeper analysis
 
-📈 Insights & Findings
+# 📈 Insights & Findings
 
 Overall Attrition Rate: About 10.8% of employees have left the organization.
 
@@ -67,7 +67,7 @@ Highest attrition is among 18–24 years (11.7%) and 55–64 years (11.2%).
 
 Middle age groups (25–54) show slightly lower attrition (around 10–10.5%).
 
-📝 How to Use
+# 📝 How to Use
 
 Download and open the .twbx file in Tableau Desktop / Tableau Public.
 
@@ -75,7 +75,7 @@ Connect to the provided dataset (if not already embedded).
 
 Explore the dashboard using interactive filters and charts.
 
-👨‍💻 Author
+# 👨‍💻 Author
 
 Rohan Sanjay Bendre 
 
