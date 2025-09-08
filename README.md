@@ -47,25 +47,26 @@ HR Analytics Concepts – applied for attrition and workforce analysis.
 
 Overall Attrition Rate: About 10.8% of employees have left the organization.
 
-Early Tenure Attrition: Employees with less than 2 years of tenure have a 36.8% attrition rate, showing higher turnover in the early stage.
+Early Tenure Attrition: 
+  Employees with less than 2 years of tenure have a 36.8% attrition rate, showing higher turnover in the early stage.
 
 Departmental Impact:
 
-Finance has the highest attrition rate (13.9%)
+  Finance has the highest attrition rate (13.9%)
 
-HR (11.6%), Customer Service (11%), and Sales (11%) also show above-average attrition.
+  HR (11.6%), Customer Service (11%), and Sales (11%) also show above-average attrition.
 
 Performance & Retention:
 
-Employees with “Needs Improvement” ratings have the highest attrition (18.3%).
+  Employees with “Needs Improvement” ratings have the highest attrition (18.3%).
 
-High performers (“Excellent”) also leave at a relatively higher rate (14.9%) compared to “Good” (9.6%) or “Satisfactory” (6.6%).
+  High performers (“Excellent”) also leave at a relatively higher rate (14.9%) compared to “Good” (9.6%) or “Satisfactory” (6.6%).
 
 Age Group Trends: 
 
-Highest attrition is among 18–24 years (11.7%) and 55–64 years (11.2%).
+  Highest attrition is among 18–24 years (11.7%) and 55–64 years (11.2%).
 
-Middle age groups (25–54) show slightly lower attrition (around 10–10.5%).
+  Middle age groups (25–54) show slightly lower attrition (around 10–10.5%).
 
 # 📝 How to Use
 
